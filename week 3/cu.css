@@ -1,0 +1,21 @@
+input, textarea, button {
+    font-size: 1.4rem;
+    padding: 10px;
+    border: none;
+  }
+  
+  input, textarea {
+    background-color: #87bdc7;
+  }
+  input, textarea, button {
+    width: 100%;
+  }
+  input, textarea, button {
+    margin-bottom: 15px;
+  }
+  form {
+    margin-left: -20px;
+    padding: 40px;
+    color: black;
+  }
+  
